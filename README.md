@@ -15,7 +15,8 @@ The dataset contains information related to trips taken by electric vehicles, in
 3. Current
 4. Maximum Cell Temperature of Battery
 5. Trip Time Length
-6. Trip Energy Consumption (log-transformed)
+6. Trip Energy Consumption
+
 These features are used to predict the energy consumption during each trip.
 
 # Model Used
